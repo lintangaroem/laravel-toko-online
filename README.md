@@ -1,8 +1,8 @@
  # TUGAS PORTOFOLIO WEB TOKO ONLINE
-Nama		: Lintang Arum Sari
-Kelas		: XI RPL 5
-No. Presensi	: 15
-Nama Toko	: Ongleng – Toko Peralatan Rumah Tangga
+- Nama		: Lintang Arum Sari
+- Kelas		: XI RPL 5
+- No. Presensi	: 15
+- Nama Toko	: Ongleng – Toko Peralatan Rumah Tangga
 
 # 1.	Halaman Login
 ![image](https://user-images.githubusercontent.com/76156474/169174767-47fa5744-73c3-490d-a839-54afdd12c0a7.png)
